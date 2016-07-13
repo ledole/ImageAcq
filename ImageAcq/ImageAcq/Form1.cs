@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace ImageAcq
 {
-    public partial class Form1 : Form
+    public partial class ImageAcq : Form
     {
-        public Form1()
+        public ImageAcq()
         {
             InitializeComponent();
         }
